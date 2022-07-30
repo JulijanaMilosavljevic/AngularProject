@@ -1,0 +1,35 @@
+<main id="main">
+
+  <!-- ======= Details Section ======= -->
+  <section id="portfolio-details" class="portfolio-details">
+
+    <div *ngIf="product" class="container">
+
+      <div class="row">
+
+        <div class="col-lg-8">
+          <h2 class="portfolio-title">{{product.name}}</h2>
+          <owl-carousel [options]="SlideOptions" [items]="images" [carouselClasses]="['owl-theme', 'sliding']" class="portfolio-details-carousel">
+            <img *ngFor="let img of product.image" class="img-fluid" src="../../assets/images/{{img.link}}"/>
+            </owl-carousel>
+        </div>
+
+        <div class="col-lg-4 portfolio-info">
+          <h3>Product information</h3>
+          <ul>
+            <li><strong>Category</strong>: {{product.category}}</li>
+            <li><strong>Price</strong>: {{product.price}}&euro;</li>
+          </ul>
+
+          <p>
+            {{product.description}}
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+  </section><!-- End Details Section -->
+
+</main><!-- End #main -->
+

@@ -1,0 +1,140 @@
+[
+    {
+        "id" : 1,
+        "name" : "Blueberry Dream Gift Package",
+        "price" : 17,
+        "category" : "women",
+        "image" : [
+          {
+            "link":"women1.jpg"
+          },
+          {
+            "link":"women2.jpg"
+          }
+          ],
+        "description" : "Grandma's secret blueberry sweet, produced according to old recipes, Lyophilized Premier blueberry in milk chocolate, ideal combination of fruit and chocolate ,Kitchen cloth purple, Wooden box"
+    },
+    {
+        "id" : 2,
+        "name" : "Gift Package Chenet & Raffaello",
+        "price" : 24,
+        "category" : "women",
+        "image" : [
+          {
+            "link":"women3.jpg"
+          },
+          {
+            "link":"women4.jpg"
+          }
+          ],
+        "description" : "J.P Chenet Mini cabernet syrah is a quality French wine ruby red color, with dominant notes of black cherry, sour cherry, blueberry and blackberry, Raffaello, delicacy with coconut, milk cream and almonds, Dehydrated rose, Glass vase, round, Wooden box"
+    },
+    {
+        "id" : 3,
+        "name" : "Gift Package Wallet & Ferrero",
+        "price" : 35,
+        "category" : "women",
+        "image" : [
+          {
+            "link":"women5.jpg"
+          },
+          {
+            "link":"women6.jpg"
+          }
+          ],
+        "description" : "Wallet, Women's scarf, Ferrero Rocher, chocolate box with roasted hazelnuts, hazelnut filling and milk chocolate. The design of the scarf may differ from the one shown, depending on the current state of stock. Agreement with the customer before sending."
+    },
+    {
+        "id" : 4,
+        "name" : "Gift Package Orange",
+        "price" : 19,
+        "category" : "women",
+        "image" : [
+          {
+            "link":"women7.jpg"
+          },
+          {
+            "link":"women8.jpg"
+          }
+          ],
+        "description" : "Old Denmark, famous Danish biscuit with pieces of dark chocolate and orange, in a decorative box, Grandma's secret orange jam, Kitchen cloth, Mug"
+    },
+    {
+        "id" : 5,
+        "name" : "Gift Package Dark & Serious",
+        "price" : 25,
+        "category" : "man",
+        "image" : [
+          {
+            "link":"man1.jpg"
+          },
+          {
+            "link":"man2.jpg"
+          }
+          ],
+        "description" : "Jezdić plum brandy (fraklić), the smallest dose of top quality plum brandy from the distillery of our famous actor, Grandma's secret plum jam, produced in the spirit of traditional cuisine, Lindt dark chocolate with 70% cocoa, for fans of real dark chocolate, Wooden box"
+    },
+    {
+        "id" : 6,
+        "name" : "Gift Package Lovebirds",
+        "price" : 10,
+        "category" : "man",
+        "image" : [
+          {
+            "link":"man3.jpg"
+          },
+          {
+            "link":"man4.jpg"
+          }
+          ],
+        "description" : "Cup Love you, Plush toy honey, Raffaello, dessert with coconut, milk cream and almonds, Wooden box"
+    },
+    {
+        "id" : 7,
+        "name" : "Gift Package Morava & Manual",
+        "price" : 60,
+        "category" : "man",
+        "image" : [
+          {
+            "link":"man5.jpg"
+          },
+          {
+            "link":"man6.jpg"
+          },
+          {
+            "link":"man7.jpg"
+          }
+          ],
+        "description" : "Morava from the Jelić winery is a top-quality white wine made from the highest quality Morava grapes. It is light yellow in color with a gentle gray sheen. The fragrance is characterized by dominant herbal notes imbued with peach aroma, Manual men's leather belt made of the highest quality leather, according to the principles of old crafts, Ferrero Rocher, chocolate box with roasted hazelnuts, hazelnut and milk chocolate filling, Wooden box"
+    },
+    {
+        "id" : 8,
+        "name" : "Gift Package For Babies (men)",
+        "price" : 40,
+        "category" : "baby",
+        "image" : [
+          {
+            "link":"baby1.jpg"
+          },
+          {
+            "link":"baby2.jpg"
+          }
+        ],
+        "description" : "Set suit for babies up to 3 months of age, Nivea wet wipes , Nivea baby shampoo and bath, Nivea baby body milk, Wooden box"
+    },
+    {
+        "id" : 9,
+        "name" : "Gift Package For Babies (women)",
+        "price" : 30,
+        "category" : "baby",
+        "image" : [
+          {
+            "link":"baby3.jpg"
+          },
+          {
+            "link":"baby4.jpg"
+          }
+        ],
+        "description" : "Set suit for girls up to 3 months of age (Cap, necklace, socks, pants, pants), Nivea wet wipes, Nivea bath / shampoo, Plush toy, Basket"
+    }
+]

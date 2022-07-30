@@ -1,0 +1,5 @@
+<ul>
+    <li  *ngFor="let link of menu" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}" >
+      <a routerLink="{{link.path}}" >{{link.title}}</a>
+    </li>
+</ul>
